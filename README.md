@@ -1,4 +1,5 @@
 # queuectl
+<<<<<<< HEAD
 
 `queuectl` is a small command-line based background job queue that I built for the QueueCTL Backend Internship assignment.  
 The idea is to have a system where you can push jobs into a queue, and workers will pick them up and execute them in the background – similar to how companies handle email sending, report generation, notifications etc.
@@ -101,3 +102,6 @@ Demo Link:
 
 Made by **Vyasmarees**  
 For FLam Backend Internship Assignment.
+
+CLI background job queue with workers, retries &amp; DLQ
+
