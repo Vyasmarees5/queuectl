@@ -1,3 +1,5 @@
 queuectl.db
+queuectl.db-shm
+queuectl.db-wal
 __pycache__/
 *.pyc
